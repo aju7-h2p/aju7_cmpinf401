@@ -1,20 +1,20 @@
 package aju7_MenuManager;
-
+/**
+ * Class Side
+  * author : Adam Usmanov
+ * created: 10/14/2022
+ */
 public class Side {
 	private String name;
 	private String description;
 	private int calories;
 	
-	public Side(String n, String d, int c) {
-		name = n;
-		description = d;
-		calories = c;
+	public Side(String name, String description, int calories) {
+		this.name = name;
+		this.description = description;
+		this.calories = calories;
 	}
-	public Side() {
-		name = null;
-		description = null;
-		calories = 0;
-	}
+	
 	
 	public String getName() {
 		return name;

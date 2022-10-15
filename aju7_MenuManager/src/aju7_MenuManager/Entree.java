@@ -1,19 +1,19 @@
 package aju7_MenuManager;
+/**
+ * Class Entree
+  * author : Adam Usmanov
+ * created: 10/14/2022
+ */
 
 public class Entree {
 	private String name;
 	private String description;
 	private int calories;
 	
-	public Entree(String n, String d, int c) {
-		name = n;
-		description = d;
-		calories = c;
-	}
-	public Entree() {
-		name = null;
-		description = null;
-		calories = 0;
+	public Entree(String name, String description, int calories) {
+		this.name = name;
+		this.description = description;
+		this.calories = calories;
 	}
 	
 	

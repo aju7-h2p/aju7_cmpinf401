@@ -1,4 +1,9 @@
 package aju7_MenuManager;
+/**
+ * Class Menu
+  * author : Adam Usmanov
+ * created: 10/14/2022
+ */
 
 public class Menu {
 	private String name;
@@ -21,22 +26,34 @@ public class Menu {
 		this.salad = null;
 		this.desert = null;
 	}
+	public Menu(String name, Entree entree, Side side, Salad salad, Desert desert) {
+		this.name = name;
+		this.entree = entree;
+		this.side = side;
+		this.salad = salad;
+		this.desert = desert;
+	}
 
-	void totalCalories() {
-		if(E1==null) {System.out.println( "Our calorie count is unavailable");}
-		else {int z = (E1.getCalories() + S1.getCalories() + SI1.getCalories() + D1.getCalories());
-		System.out.println(z);}
+	int totalCalories() {
+		int total = 0;
+		if(entree != null) {total += entree.getCalories();}
+		if(side != null) {total += side.getCalories();}
+		if(salad != null) {total += salad.getCalories();}
+		if(desert != null) {total += desert.getCalories();}
+		return total;
 	}
 	
-	void description() {
-		if(entree==null) {System.out.println( "We are not offering an Entree at this time");}
-		else {System.out.println(entree.getDescription());}
-		if(salad==null) {System.out.println( "We are not offering a Salad at this time");}
-		else {System.out.println(salad.getDescription());}
-		if(side==null) {System.out.println( "We are not offering a Side at this time");}
-		else {System.out.println(side.getDescription());}
-		if(desert==null) {System.out.println( "We are not offering a Desert at this time");}
-		else {System.out.println(desert.getDescription());}
+	String description() {
+		String description = "";
+		if(entree==null) {description += "Entree: N/A" + "\n";}
+		else {description += "Entree: " + entree.getName() + ". " + entree.getDescription()+ "\n";}
+		if(salad==null) {description += "Salad: N/A" + "\n";}
+		else {description += "Salad: " + salad.getName() + ". " + salad.getDescription()+ "\n";}
+		if(side==null) {description += "Side: N/A" + "\n";}
+		else {description += "Side: " + side.getName() + ". " + side.getDescription()+ "\n";}
+		if(desert==null) {description += "Desert: N/A" + "\n";}
+		else {description += "Desert: " + desert.getName() + ". " + desert.getDescription()+ "\n";}
+		return description;
 	}
 
 	public String getName() {

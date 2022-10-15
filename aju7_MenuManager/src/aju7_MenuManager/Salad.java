@@ -1,20 +1,20 @@
 package aju7_MenuManager;
-
+/**
+ * Class Salad
+  * author : Adam Usmanov
+ * created: 10/14/2022
+ */
 public class Salad {
 	private String name;
 	private String description;
 	private int calories;
 	
-	public Salad(String n, String d, int c) {
-		name = n;
-		description = d;
-		calories = c;
+	public Salad(String name, String description, int calories) {
+		this.name = name;
+		this.description = description;
+		this.calories = calories;
 	}
-	public Salad() {
-		name = null;
-		description = null;
-		calories = 0;
-	}
+	
 	
 	public int getCalories() {
 		return calories;
