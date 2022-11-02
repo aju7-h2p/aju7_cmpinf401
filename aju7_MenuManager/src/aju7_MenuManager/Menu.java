@@ -1,7 +1,7 @@
 package aju7_MenuManager;
 /**
  * Class Menu
-  * author : Adam Usmanov
+ * author : Adam Usmanov
  * created: 10/14/2022
  */
 
@@ -11,7 +11,7 @@ public class Menu {
 	private Salad salad;
 	private Side side;
 	private Desert desert;
-	
+
 	public Menu(String name) {
 		this.name = name;
 		entree = null;
@@ -42,7 +42,7 @@ public class Menu {
 		if(desert != null) {total += desert.getCalories();}
 		return total;
 	}
-	
+
 	String description() {
 		String description = "";
 		if(entree==null) {description += "Entree: N/A" + "\n";}
@@ -63,8 +63,8 @@ public class Menu {
 	public void setName(String name) {
 		this.name = name;
 	}
-		
-		
+
+
 
 
 }
