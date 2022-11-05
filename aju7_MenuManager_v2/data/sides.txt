@@ -1,0 +1,5 @@
+side1@@desc1@@70
+side2@@desc2@@170
+side3@@desc3@@180
+side4@@desc4@@190
+side5@@desc5@@120
