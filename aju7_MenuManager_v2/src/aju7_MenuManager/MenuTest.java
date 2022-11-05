@@ -22,7 +22,7 @@ public class MenuTest {
 		Menu M2 = new Menu ("test2", E2, SI1, S2, d1);
 
 		System.out.println(M1.description());
-		
+		System.out.println(M2.totalCalories());
 
 
 
