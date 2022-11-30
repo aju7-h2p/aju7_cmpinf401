@@ -1,0 +1,51 @@
+These are the Menus available
+Entree: Griller Steak. Carefully selected prime quality steak griller to the point of your preference cals: 740 price: 15.0
+Salad: Soy bean sprout with corn. Soy bean sprout with corn and olives cals: 210 price: 5.0
+Side: Quinoa. Quinoa cals: 140 price: 4.7
+Dessert: Ice Cream. Choose among vanilla, mango, pineapple, chocolate and orange ice cream cals: 250 price: 3.2
+
+Entree: Sirloin Steak. A delicious piece of 1/2 a pound of our carefully selected meat grilled and seasoned. Choose how much you want it cooked cals: 820 price: 22.5
+Salad: Potato Salad. Potato Salad cals: 195 price: 4.0
+Side: Rice. Plain rice cals: 160 price: 3.5
+Dessert: Chocolate Cake. Low calorie chocolate cake cals: 175 price: 7.0
+
+Entree: Curry Chicken. Curry marinated chicken, cooked slowly in wood fire oven cals: 430 price: 11.5
+Salad: Mixed Vegetables. Includes small tomatoes, lettuce, cucumber, spinach and arugula cals: 90 price: 7.0
+Side: Grilled Potatoes. Boiled potatoes grilled in oven with a touch of butter cals: 270 price: 5.0
+Dessert: Ice Cream. Choose among vanilla, mango, pineapple, chocolate and orange ice cream cals: 250 price: 3.2
+
+Entree: Deep fried chicken breasts. Deep fried chicken breasts using our traditional powder receipt cals: 560 price: 12.0
+Salad: Quinoa. Quinoa lightly salted cals: 120 price: 4.0
+Side: Grilled Potatoes. Boiled potatoes grilled in oven with a touch of butter cals: 270 price: 5.0
+Dessert: Fruit Salad. Oranges, bananas, apples, grapes, strawberries cals: 200 price: 5.0
+
+Entree: Deep fried chicken breasts. Deep fried chicken breasts using our traditional powder receipt cals: 560 price: 12.0
+Salad: Potato Salad. Potato Salad cals: 195 price: 4.0
+Side: Grilled Potatoes. Boiled potatoes grilled in oven with a touch of butter cals: 270 price: 5.0
+Dessert: Ice Cream. Choose among vanilla, mango, pineapple, chocolate and orange ice cream cals: 250 price: 3.2
+
+Entree: Deep fried chicken breasts. Deep fried chicken breasts using our traditional powder receipt cals: 560 price: 12.0
+Salad: Mixed Vegetables. Includes small tomatoes, lettuce, cucumber, spinach and arugula cals: 90 price: 7.0
+Side: Rice. Plain rice cals: 160 price: 3.5
+Dessert: Chocolate Cake. Low calorie chocolate cake cals: 175 price: 7.0
+
+Entree: Deep fried chicken breasts. Deep fried chicken breasts using our traditional powder receipt cals: 560 price: 12.0
+Salad: Soy bean sprout with corn. Soy bean sprout with corn and olives cals: 210 price: 5.0
+Side: Rice. Plain rice cals: 160 price: 3.5
+Dessert: Fruit Salad. Oranges, bananas, apples, grapes, strawberries cals: 200 price: 5.0
+
+Entree: Deep fried chicken breasts. Deep fried chicken breasts using our traditional powder receipt cals: 560 price: 12.0
+Salad: Mixed Vegetables. Includes small tomatoes, lettuce, cucumber, spinach and arugula cals: 90 price: 7.0
+Side: Quinoa. Quinoa cals: 140 price: 4.7
+Dessert: Fruit Salad. Oranges, bananas, apples, grapes, strawberries cals: 200 price: 5.0
+
+Entree: Curry Chicken. Curry marinated chicken, cooked slowly in wood fire oven cals: 430 price: 11.5
+Salad: Mixed Vegetables. Includes small tomatoes, lettuce, cucumber, spinach and arugula cals: 90 price: 7.0
+Side: Grilled Potatoes. Boiled potatoes grilled in oven with a touch of butter cals: 270 price: 5.0
+Dessert: Chocolate Cake. Low calorie chocolate cake cals: 175 price: 7.0
+
+Entree: Curry Chicken. Curry marinated chicken, cooked slowly in wood fire oven cals: 430 price: 11.5
+Salad: Quinoa. Quinoa lightly salted cals: 120 price: 4.0
+Side: Grilled Potatoes. Boiled potatoes grilled in oven with a touch of butter cals: 270 price: 5.0
+Dessert: Chocolate Cake. Low calorie chocolate cake cals: 175 price: 7.0
+

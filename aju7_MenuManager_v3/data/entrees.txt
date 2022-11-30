@@ -1,0 +1,5 @@
+entree1@@desc1@@70
+entree2@@desc2@@170
+entree3@@desc3@@180
+entree4@@desc4@@190
+entree5@@desc5@@120
